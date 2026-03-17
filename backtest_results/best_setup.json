@@ -1,0 +1,15 @@
+{
+  "asset": "NVDA",
+  "strategy": "MACD Crossover",
+  "timeframe": "Daily",
+  "period": "2025-09-15 to 2026-03-17",
+  "total_return_pct": 106.84,
+  "sharpe_ratio": 2.873,
+  "sortino_ratio": 5.076,
+  "max_drawdown_pct": -16.37,
+  "calmar_ratio": 13.051,
+  "win_rate_pct": 71.4,
+  "profit_factor": 9.47,
+  "num_trades": 7,
+  "final_equity": 206836.4
+}
