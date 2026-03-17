@@ -1,0 +1,17 @@
+{
+  "total_return_pct": 24.57,
+  "sharpe": 3.095,
+  "sortino": 1.701,
+  "max_dd_pct": -2.68,
+  "calmar": 18.267,
+  "n_trades": 6,
+  "win_rate": 100.0,
+  "profit_factor": 999,
+  "final_equity": 124573.71,
+  "composite": 5.702,
+  "asset": "TSLA",
+  "strategy": "RSI + EMA Trend",
+  "params": "{'rsi_period': 10, 'ema_period': 34, 'oversold': 38, 'overbought': 62}",
+  "timeframe": "H4",
+  "period": "2025-09-15 to 2026-03-17"
+}
